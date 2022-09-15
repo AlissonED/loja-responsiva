@@ -23,22 +23,41 @@ img{
     width: 100%;
     padding: 20px;
 @media screen and (min-width:500px) {
-    .um{
+    .c1{
         width: 50%;
     }
-    .dois{
+    .c2{
         width: 50%;
     }
-    .b4{
+    .c3{
         width: 50%;
     }
-    .b5{
+    .c4{
         width: 50%;
     }
-    .b8{
+    .c5{
         width: 50%;
     }
-    .b9{
+    .c6{
         width: 50%;
     }
+    .c7{
+        width: 50%;
+    }
+    .c8{
+        width: 50%;
+    }
+    .c9{
+        width: 50%;
+    }
+    .c10{
+        width: 50%;
+    }
+    .c11{
+        width: 50%;
+    }
+    .c12{
+        width: 50%;
+    }
+    
 }
