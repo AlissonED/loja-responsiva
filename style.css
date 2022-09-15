@@ -22,7 +22,6 @@ img{
 .box{
     width: 100%;
     padding: 20px;
-}
 @media screen and (min-width:500px) {
     .um{
         width: 50%;
@@ -30,10 +29,16 @@ img{
     .dois{
         width: 50%;
     }
-    
-    
-}
-@media screen and (min-width:600px){
-    
-    
+    .b4{
+        width: 50%;
+    }
+    .b5{
+        width: 50%;
+    }
+    .b8{
+        width: 50%;
+    }
+    .b9{
+        width: 50%;
+    }
 }
